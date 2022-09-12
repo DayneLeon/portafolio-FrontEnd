@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;  
+    
+}
+
+
+.fondo{
+    background-color:#EDE4DB;
+    
+}
+
+aside{
+    padding: 20px;
+    flex: 30px;
+    text-align: center;
+
+}
+
+section{
+    flex: 70%;
+    padding: 0px;
+}
+
+.centrado{
+    text-align: center;
+}
+
+
+.img-thumbnail{
+    width: 180px ; 
+    height: 180px; 
+}
+
+.foto{
+    width: 80px ; 
+    height: 80px;
+}
+
+.progress-bar{
+    background-color: #3980a6;
+}
+
+footer{
+    background-color: #3980a6; 
+    display: flex; 
+    justify-content: center; 
+    height: 50px;
+}
+
+footer a{
+    margin-right: 10px;
+}
