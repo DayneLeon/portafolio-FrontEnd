@@ -1,0 +1,9 @@
+*{
+    font-size: 17px;
+}
+.container{
+    width: 30%;
+    margin-top: 150px;
+    border: 1px solid blanchedalmond;
+    padding: 20px 20px 20px 20px;
+}
